@@ -1,9 +1,19 @@
 ---
 author: [Sabrina Rodriguez, Evan Nelson, Rebekah Rudd]
-title:
+title: List processing with bosco
 page-layout: full
 categories:
-date:
+date: "2024-04-29"
 date-format: long
 toc: true
 ---
+
+# Introduction and Overview
+
+## Grpahs and Tables
+
+## Function Analysis
+
+## Results and Conclusion
+
+## Future Works
