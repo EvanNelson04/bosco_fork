@@ -10,7 +10,7 @@ toc: true
 
 # Introduction and Overview
 
-## Grpahs and Tables
+## Graphs and Tables
 
 ## Function Analysis
 
