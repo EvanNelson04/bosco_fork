@@ -1,0 +1,9 @@
+---
+author: [Sabrina Rodriguez, Evan Nelson, Rebekah Rudd]
+title:
+page-layout: full
+categories:
+date:
+date-format: long
+toc: true
+---
