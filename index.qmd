@@ -1,5 +1,5 @@
 ---
-author: [Sabrina Rodriguez, Evan Nelson, Rebekah Rudd]
+author: [Sabrina Rodriguez, Evan Nelson, Rebekah Rudd, Nicholas Ingerson-Meacham]
 title: List processing with bosco
 page-layout: full
 categories:
