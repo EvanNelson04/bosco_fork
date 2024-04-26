@@ -98,3 +98,9 @@ def bosco(
     )
 
     fig.show()
+
+    doubling_ratio = benchmark.compute_average_doubling_ratio(all_results)
+    print(f"Here is the expected doubling ratio: {doubling_ratio}")
+
+    estimated_time_complexity = benchmark.estimate_time_complexity(doubling_ratio)
+    print(f"Here is the estimated time complexity: {estimated_time_complexity}")
